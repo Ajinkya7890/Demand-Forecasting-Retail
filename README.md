@@ -223,4 +223,4 @@ making it a valuable portfolio project for Data Science and Analytics roles.
 
 Data Science Intern Project
 
-GitHub: *Add your GitHub profile link here*
+
