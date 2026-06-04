@@ -1,0 +1,59 @@
+# Virtual Environment
+
+venv/
+.venv/
+env/
+
+# Python Cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# Operating System Files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python Build Files
+
+build/
+dist/
+*.egg-info/
+
+# Environment Variables
+
+.env
+
+# Temporary Files
+
+*.tmp
+*.bak
+*.swp
+
+# Logs
+
+*.log
+
+# Original Kaggle Dataset Files
+
+data/train.csv
+data/test.csv
+data/stores.csv
+data/transactions.csv
+data/oil.csv
+data/holidays_events.csv
+data/sample_submission.csv
