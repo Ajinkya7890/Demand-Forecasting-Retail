@@ -184,7 +184,8 @@ In addition to the forecasting model developed using Facebook Prophet, an intera
 The Power BI dashboard file is included in this repository:
 
 ```text
-PowerBi_dashboard/Demand_Forecasting_Dashboard.pbix
+PowerBi_dashboard/Demand-Forecasting-Retail.pbix
+```
 
 ---
 
