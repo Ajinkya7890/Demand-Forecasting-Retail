@@ -155,6 +155,39 @@ The forecast closely follows actual sales values and demonstrates strong predict
 
 ---
 
+## Power BI Dashboard
+
+In addition to the forecasting model developed using Facebook Prophet, an interactive Power BI dashboard was created to provide business-focused insights and visualize forecasting results.
+
+### Dashboard Pages
+
+#### Executive Overview
+- Total Sales KPI
+- Average Daily Sales KPI
+- Maximum Daily Sales KPI
+- Forecast Accuracy (MAPE)
+- Historical Sales Trend
+
+#### Sales Analysis
+- Monthly Sales Distribution
+- Sales by Day of Week
+- Demand Pattern Analysis
+
+#### Forecast Analysis
+- Actual vs Predicted Sales Comparison
+- RMSE Evaluation
+- MAPE Evaluation
+- Forecast Performance Monitoring
+
+### Dashboard File
+
+The Power BI dashboard file is included in this repository:
+
+```text
+PowerBi_dashboard/Demand_Forecasting_Dashboard.pbix
+
+---
+
 ## Technologies Used
 
 * Python
@@ -183,6 +216,9 @@ Demand-Forecasting-Retail/
 │
 ├── models/
 │   └── prophet_model.pkl
+│
+├── PowerBi_dashboard/
+│   └── Demand-Forecasting-Retail.pbix
 │
 ├── demand_forecasting.ipynb
 ├── requirements.txt
